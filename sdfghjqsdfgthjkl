@@ -1,0 +1,47 @@
+<h1 style="text-align: center;">Projet Capteur De Polution !</h1>
+<p style="text-align: right;"><strong>Projet Creators: Tony.W, Alexandre.E</strong></p>
+<p style="text-align: right;"><strong>Gustave.F, Nathan.D</strong></p>
+<h2>&Agrave; quoi va servir ce "Capteur De Polution":</h2>
+<p>Ce "Capteur" sert &agrave; capter la polution sur un v&eacute;lo ! et oui il sera montable au cadre du v&eacute;lo. Il sera &eacute;quiper d'un GPS qui vous localisera et qui envoyera vos coordonn&eacute;es &agrave; la base de donn&eacute;es que vous pourez monitorer sur l'application.</p>
+<p>Cette application vous servira &agrave; montrez les rues les plus pollu&eacute;es au moins pollu&eacute;es et il vous guidera au point d'arriver avec le moins de polutions possible.</p>
+<h2 style="text-align: center;">Exemple: "La Carte de Paris"</h2>
+<p>&nbsp;<img style="display: block; margin-left: auto; margin-right: auto;" src="https://www.gralon.net/plan-ville/cartes/plan-paris-30857.jpg" width="700" height="700" /></p>
+<p style="text-align: center;"><a href="file:///Q:/Documents%20en%20consultation/IT%20WAGNER/Hebergement%20(alwaysdata)/OpenLayers/index.html'"> <button class="GFG"> <strong>Map (Paris)</strong> </button> </a></p>
+<h2>Les composants :</h2>
+<table style="height: 108px; width: 636px;" width="682">
+<thead>
+<tr style="height: 18px;">
+<td style="height: 18px; width: 194.312px;"><strong>Composants</strong></td>
+<td style="height: 18px; width: 97.1562px;"><strong>Prix</strong></td>
+<td style="height: 18px; width: 322.531px;"><strong>Autonomie/Capacit&eacute;</strong></td>
+</tr>
+</thead>
+<tbody>
+<tr style="height: 18px;">
+<td style="height: 18px; width: 194.312px;">Batterie USB</td>
+<td style="height: 18px; width: 97.1562px;">12&euro;</td>
+<td style="height: 18px; width: 322.531px;">59 heures/4000mAh</td>
+</tr>
+<tr style="height: 18px;">
+<td style="height: 18px; width: 194.312px;">Contr&ocirc;leur (esp32)</td>
+<td style="height: 18px; width: 97.1562px;">5&euro;</td>
+<td style="height: 18px; width: 322.531px;">envoie toutes les 5sec</td>
+</tr>
+<tr style="height: 18px;">
+<td style="height: 18px; width: 194.312px;">Capteur de pollution</td>
+<td style="height: 18px; width: 97.1562px;">2&euro;</td>
+<td style="height: 18px; width: 322.531px;">capte le CO2</td>
+</tr>
+<tr style="height: 18px;">
+<td style="height: 18px; width: 194.312px;">GPS</td>
+<td style="height: 18px; width: 97.1562px;">5&euro;</td>
+<td style="height: 18px; width: 322.531px;">envoie vos coordonn&eacute;es toutes les 5sec</td>
+</tr>
+<tr style="height: 18px;">
+<td style="height: 18px; width: 194.312px;"><strong>Totale</strong></td>
+<td style="height: 18px; width: 97.1562px;"><strong>24&euro; TTC </strong></td>
+<td style="height: 18px; width: 322.531px;"><strong>x</strong></td>
+</tr>
+</tbody>
+</table>
+<br>
